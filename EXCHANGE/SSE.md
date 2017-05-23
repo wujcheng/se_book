@@ -1,3 +1,3 @@
-<img width="102" height="20.9" src="../images/sse_logo.jpg">
+![](/images/sse_logo.jpg)
 上交所官网 http://www.sse.com.cn/
 
