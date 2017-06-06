@@ -12,7 +12,5 @@
 
 ![](/assets/1990年11月26日.jpg)
 
-
-
-
+上海证交所1990年建立以后直到1997年搬到浦东之前，门口金色大字最初的英文翻译用的是“Shanghai Securities Exchange”而没有直接用“Shanghai Stock Exchange”。首任上海证交所理事长李祥瑞对此的解释是：“当时翻译成securities，也符合我们股票少、债券多的实际情况。但另一个主导思想，是不敢按国际上通用的那样写上share或stock，生怕上报审批时引来麻烦。”
 
